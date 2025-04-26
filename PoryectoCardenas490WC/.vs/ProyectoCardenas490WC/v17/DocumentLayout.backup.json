@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5585D024-D0AE-4138-AFB4-5396577662FD}|SERVICIOS490WC\\SERVICIOS490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\servicios490wc\\usermanager490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5585D024-D0AE-4138-AFB4-5396577662FD}|SERVICIOS490WC\\SERVICIOS490WC.csproj|solutionrelative:servicios490wc\\usermanager490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formlogin490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formlogin490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formlogin490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formlogin490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formmenu490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formmenu490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formmenu490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formmenu490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formabmusuario490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formabmusuario490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formabmusuario490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formabmusuario490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formcambiarclave490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formcambiarclave490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formerror490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formerror490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4C1412-CAF9-4588-937C-B92B39C5945F}|DAL490WC\\DAL490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\dal490wc\\gestorconexion490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4C1412-CAF9-4588-937C-B92B39C5945F}|DAL490WC\\DAL490WC.csproj|solutionrelative:dal490wc\\gestorconexion490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\estadomenu490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\estadomenu490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\estadoiniciarsesion490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\estadoiniciarsesion490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\estadoerror490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\estadoerror490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\estadocerraraplicacion490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\estadocerraraplicacion490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\gestorform490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\gestorform490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formmenu490wc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formmenu490wc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5585D024-D0AE-4138-AFB4-5396577662FD}|SERVICIOS490WC\\SERVICIOS490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\servicios490wc\\usuario490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5585D024-D0AE-4138-AFB4-5396577662FD}|SERVICIOS490WC\\SERVICIOS490WC.csproj|solutionrelative:servicios490wc\\usuario490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\gui490wc\\formcambiarclave490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0EB2CA-4D15-4222-A283-1784BE7EF619}|GUI490WC\\GUI490WC.csproj|solutionrelative:gui490wc\\formcambiarclave490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5585D024-D0AE-4138-AFB4-5396577662FD}|SERVICIOS490WC\\SERVICIOS490WC.csproj|c:\\users\\william c\u00E0rdenas\\desktop\\tesis 2025\\campocardenas490wc\\poryectocardenas490wc\\servicios490wc\\sesionmanager490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5585D024-D0AE-4138-AFB4-5396577662FD}|SERVICIOS490WC\\SERVICIOS490WC.csproj|solutionrelative:servicios490wc\\sesionmanager490wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormABMUsuario490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormABMUsuario490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormABMUsuario490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormABMUsuario490WC.cs",
+              "RelativeToolTip": "GUI490WC\\FormABMUsuario490WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:15:45.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMenu490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormMenu490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormMenu490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormMenu490WC.cs",
+              "RelativeToolTip": "GUI490WC\\FormMenu490WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:11:16.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormABMUsuario490WC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormABMUsuario490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormABMUsuario490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormABMUsuario490WC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI490WC\\FormABMUsuario490WC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:17:17.07Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMenu490WC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormMenu490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormMenu490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormMenu490WC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI490WC\\FormMenu490WC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:13:48.747Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin490WC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormLogin490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormLogin490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormLogin490WC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI490WC\\FormLogin490WC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:21:26.358Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormLogin490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormLogin490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormLogin490WC.cs",
+              "RelativeToolTip": "GUI490WC\\FormLogin490WC.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:21:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\SERVICIOS490WC\\UserManager490WC.cs",
+              "RelativeDocumentMoniker": "SERVICIOS490WC\\UserManager490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\SERVICIOS490WC\\UserManager490WC.cs",
+              "RelativeToolTip": "SERVICIOS490WC\\UserManager490WC.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAYwL0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:23:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCambiarClave490WC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormCambiarClave490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormCambiarClave490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormCambiarClave490WC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI490WC\\FormCambiarClave490WC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:17:10.003Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestorConexion490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\DAL490WC\\GestorConexion490WC.cs",
+              "RelativeDocumentMoniker": "DAL490WC\\GestorConexion490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\DAL490WC\\GestorConexion490WC.cs",
+              "RelativeToolTip": "DAL490WC\\GestorConexion490WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:56:52.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormError490WC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormError490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormError490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormError490WC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI490WC\\FormError490WC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:30:19.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\Program.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\Program.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\Program.cs",
+              "RelativeToolTip": "GUI490WC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:10:13.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestorForm490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\GestorForm490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\GestorForm490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\GestorForm490WC.cs",
+              "RelativeToolTip": "GUI490WC\\GestorForm490WC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:35:28.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadoCerrarAplicacion490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoCerrarAplicacion490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\EstadoCerrarAplicacion490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoCerrarAplicacion490WC.cs",
+              "RelativeToolTip": "GUI490WC\\EstadoCerrarAplicacion490WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:39:21.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EstadoMenu490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoMenu490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\EstadoMenu490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoMenu490WC.cs",
+              "RelativeToolTip": "GUI490WC\\EstadoMenu490WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:14:58.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstadoIniciarSesion490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoIniciarSesion490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\EstadoIniciarSesion490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoIniciarSesion490WC.cs",
+              "RelativeToolTip": "GUI490WC\\EstadoIniciarSesion490WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:14:20.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstadoError490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoError490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\EstadoError490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\EstadoError490WC.cs",
+              "RelativeToolTip": "GUI490WC\\EstadoError490WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:13:31.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SesionManager490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\SERVICIOS490WC\\SesionManager490WC.cs",
+              "RelativeDocumentMoniker": "SERVICIOS490WC\\SesionManager490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\SERVICIOS490WC\\SesionManager490WC.cs",
+              "RelativeToolTip": "SERVICIOS490WC\\SesionManager490WC.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:24:22.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuario490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\SERVICIOS490WC\\Usuario490WC.cs",
+              "RelativeDocumentMoniker": "SERVICIOS490WC\\Usuario490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\SERVICIOS490WC\\Usuario490WC.cs",
+              "RelativeToolTip": "SERVICIOS490WC\\Usuario490WC.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:32:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMenu490WC.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormMenu490WC.Designer.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormMenu490WC.Designer.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormMenu490WC.Designer.cs",
+              "RelativeToolTip": "GUI490WC\\FormMenu490WC.Designer.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAawKQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:13:34.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormCambiarClave490WC.cs",
+              "DocumentMoniker": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormCambiarClave490WC.cs",
+              "RelativeDocumentMoniker": "GUI490WC\\FormCambiarClave490WC.cs",
+              "ToolTip": "C:\\Users\\William C\u00E0rdenas\\Desktop\\TESIS 2025\\CampoCardenas490WC\\PoryectoCardenas490WC\\GUI490WC\\FormCambiarClave490WC.cs",
+              "RelativeToolTip": "GUI490WC\\FormCambiarClave490WC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:16:40.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
